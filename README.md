@@ -3,7 +3,7 @@
 Siphub is a professional bridge between **Asterisk PBX** and **Viber Desktop**. Route your SIP calls to the world for $0 using GUI automation.
 
 ### 📁 Configs Folder
-You can find pre-configured Asterisk files in the `/configs` folder of this repository.
+You can find pre-configured Asterisk files of this repository.
 
 ### ❗ Vital Instructions for Stability
 - **Windows Scaling:** Must be set to **100%**. Anything else will break the coordinates.
