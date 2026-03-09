@@ -20,3 +20,4 @@ You can find pre-configured Asterisk files of this repository.
 **YOU NEED 1 LINUX VM (Asterisk) 1 WINDOWS VM (Viber + Python)**
 **THE MOST WORKING SOLUTION %95 IS VMWARE**
 **GIVE THEM A BRIDGE IP 192.168.1.XX**
+**DOWNLOAD VIBER DESKTOP AND REGISTER YOUR NUMBER VIA QR-CODE**
