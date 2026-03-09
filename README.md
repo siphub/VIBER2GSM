@@ -21,3 +21,8 @@ You can find pre-configured Asterisk files of this repository.
 **THE MOST WORKING SOLUTION %95 IS VMWARE**
 **GIVE THEM A BRIDGE IP 192.168.1.XX**
 **DOWNLOAD VIBER DESKTOP AND REGISTER YOUR NUMBER VIA QR-CODE**
+
+### Registartion
+1. Register 200 to Windows VM
+2. Register 100 to your own softphone
+3. Try to make a call to a USA Toll Free number
