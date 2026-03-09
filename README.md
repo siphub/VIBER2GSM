@@ -12,7 +12,7 @@ You can find pre-configured Asterisk files of this repository.
 - **VM Usage:** Fully compatible with VMware/VirtualBox as long as a virtual audio driver is present.
 
 ### ⚙️ How to Test
-1. Set up your Asterisk using files in `/configs`.
+1. Set up your Asterisk using files in `Reporisity Files`.
 2. Install **VB-Audio Cable** on your Windows Gateway.
 3. Configure MicroSIP and Viber to use **Cable Output/Input**.
 4. Run `gateway.py` as Administrator and dial!
