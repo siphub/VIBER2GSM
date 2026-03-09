@@ -1,4 +1,4 @@
-# 🚀 Siphub: Precision SIP-to-Social Media Gateway
+# 🚀 Siphub: Precision SIP-to-VIBER
 
 Siphub is a professional bridge between **Asterisk PBX** and **Viber Desktop**. Route your SIP calls to the world for $0 using GUI automation.
 
